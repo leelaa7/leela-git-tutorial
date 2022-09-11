@@ -1,3 +1,4 @@
 Introduce yourself in this file!
 
 Tell us your name, year, school, major (if you are undecided, write down the frontrunners), and a fun fact!
+My name is Leela Anderson. I'm a freshman in LSA, and I'm interested in majoring in data science. A fun fact about me is that I like to snowboard.
